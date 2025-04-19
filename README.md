@@ -14,11 +14,11 @@
 
 ### Код
 
-![]((./mainpycode\).jpg)
+![alt text](images/mainpycode.png)
 
 ### Вивід
 
-![]((./main.pyoutput).jpg)
+![alt text](images/mainpyoutput.png)
 
 ---
 
@@ -26,11 +26,11 @@
 
 ### Код
 
-![]((./test_mainpycode\).jpg)
+![alt text](images/testpycode.png)
 
 ### Вивід
 
-![]((./test_mainpyoutput\).jpg)
+![alt text](images/pytestoutput.png)
 
 ---
 
